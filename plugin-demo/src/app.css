@@ -1,0 +1,4 @@
+div#remote-media video {
+    max-width: 300px !important;
+    height: 225px;
+}
